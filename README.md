@@ -1,6 +1,10 @@
 # CoviTalk-Mobile-Application
 The App, collects the detailed information of the symptoms that the patient has been experiencing and then directs him/her to follow a set of instructions (for both COVID and black fungus). In case of severity a message will be sent to the hospital and an emergency call can be made to the hospital to book a bed by using our app.
 
+The detailed description of our app is given below link:
+
+https://gallery.appinventor.mit.edu/?galleryid=60d6b9c0-688d-4505-91ca-d8dd0455fade
+
 
 This is our project, you can access the code and the details of the project using the below link:
 
